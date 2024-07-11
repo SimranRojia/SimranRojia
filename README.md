@@ -20,7 +20,8 @@
 
 ## 📈 GitHub Stats
 
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?SimranRojia=SimranRojia&show_icons=true&hide=issues&hide_title=true)](https://github.com/SimranRojia)
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=SimranRojia&show_icons=true&hide=issues&hide_title=true)](https://github.com/SimranRojia)
+
 
 ## 🔗 Connect with me
 
