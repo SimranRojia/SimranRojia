@@ -66,6 +66,5 @@ Thank you for taking the time to learn about my journey. Let’s connect and exp
 
 - [LinkedIn](https://www.linkedin.com/in/simran-rojia) <img src="linkedin_image_url" alt="LinkedIn">
 - [Twitter](https://twitter.com/yourhandle) <img src="twitter_image_url" alt="Twitter">
-- [Personal Website/Blog](https://yourwebsite.com) <img src="website_image_url" alt="Personal Website">
 - [Email](mailto:simranrojia@gmail.com) <img src="email_image_url" alt="Email">
 
