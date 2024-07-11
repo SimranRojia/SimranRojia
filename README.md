@@ -1,7 +1,7 @@
 # Hi there, I'm Simran Rojia! 👋
 
 ![Profile views](https://gpvc.arturio.dev/SimranRojia)
-[![GitHub followers](https://img.shields.io/github/followers/SimranRojia?label=Follow&style=social)](https://github.com/SimranRojia/?tab=follow)
+
 
 ## About Me
 
