@@ -2,9 +2,17 @@
 
 ## About Me
 
-Hello! I'm Simran Rojia, an undergraduate student pursuing Information Technology at Delhi Technological University (DTU). Passionate about leveraging technology to solve real-world problems, I actively engage in web development and AI/ML projects alongside my academic endeavors. I strive to push the boundaries of what's possible, continuously enhancing my skills and delivering innovative solutions.
+Hello! I'm Simran Rojia, an enthusiastic techie with a strong background in full-stack development, artificial intelligence, and machine learning. Currently pursuing a BTech in Information Technology at Delhi Technological University (DTU), I am deeply passionate about creating innovative solutions to real-world problems through technology.
 
-At SKILLOP, where I am the Co-Head of Web Development and a Frontend Developer, I have played a key role in designing and deploying responsive, user-centric components, optimizing functionalities, and implementing features like the hashtag feature. I also co-founded Moofli, leading the development of key features to ensure a seamless user experience.
+### My Tech Stack:
+- **Frontend:** HTML5, CSS3, JavaScript, TypeScript, React
+- **Backend:** Node.js, Express.js, MongoDB, SQL
+- **AI/ML:** TensorFlow, PyTorch, OpenAI
+- **Data Science:** Jupyter Notebook, NumPy, Pandas, Matplotlib
+- **Other Tools:** Git, Canva
+
+I thrive on building scalable web applications and have significant experience in developing both frontend and backend components. I am particularly interested in the fields of AI and ML, constantly exploring new ways to integrate these technologies into my projects.
+
 
 Thank you for taking the time to learn about my journey. Let’s connect and explore how we can collaborate or share knowledge!
 
