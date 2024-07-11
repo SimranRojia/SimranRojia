@@ -1,14 +1,12 @@
 # Hi there, I'm Simran Rojia! 👋
 
-[![Linkedin: SimranRojia](https://img.shields.io/badge/-simran-rojia-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/simran-rojia/)](https://www.linkedin.com/in/simran-rojia/)
-
-
 ## About Me
 
-- 🔭 I’m currently working on Skillop
-- 🌱 I’m currently learning Blockchain and Web3
-- 💬 Ask me about HTML, CSS, Javascript, React.js, Node.js, MongoDB, SQL, Typescript, AI ,Machine Learning
-- 📫 How to reach me: simranrojia@gmail.com
+Hello! I'm Simran Rojia, an undergraduate student pursuing Information Technology at Delhi Technological University (DTU). Passionate about leveraging technology to solve real-world problems, I actively engage in web development and AI/ML projects alongside my academic endeavors. I strive to push the boundaries of what's possible, continuously enhancing my skills and delivering innovative solutions.
+
+At SKILLOP, where I am the Co-Head of Web Development and a Frontend Developer, I have played a key role in designing and deploying responsive, user-centric components, optimizing functionalities, and implementing features like the hashtag feature. I also co-founded Moofli, leading the development of key features to ensure a seamless user experience.
+
+Thank you for taking the time to learn about my journey. Let’s connect and explore how we can collaborate or share knowledge!
 
 
 ## 🛠️ Technologies and Tools
@@ -40,4 +38,5 @@
 
 - [LinkedIn](https://www.linkedin.com/in/simran-rojia/)
 - [Twitter](https://twitter.com/SimranRojia2284)
+- [Email](mailto:simranrojia@gmail.com)
 
