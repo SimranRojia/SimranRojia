@@ -1,8 +1,7 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm Simran Rojia! 👋
 
 ![Profile views](https://gpvc.arturio.dev/SimranRojia)
 [![GitHub followers](https://img.shields.io/github/followers/SimranRojia?label=Follow&style=social)](https://github.com/SimranRojia/?tab=follow)
-[![Linkedin: yourname](https://img.shields.io/badge/-yourname-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yourname/)](https://www.linkedin.com/in/yourname/)
 
 ## About Me
 
